@@ -1,0 +1,11 @@
+img{
+    border: 1px solid rgb(22, 219, 200);
+    border-radius: 10px;
+    width: 175px;
+    height: 175px;
+}
+
+#profile{
+    border-radius: 100px;
+    border: 0px;
+}
